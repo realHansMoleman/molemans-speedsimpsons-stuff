@@ -1,0 +1,138 @@
+Seed box:
+6-runner draw: 324x91 (default)
+
+Runner 1 - X:118 Y:64
+Runner 2 - X:118 Y:162
+Runner 3 - X:118 Y:260
+Runner 4 - X:118 Y:358
+Runner 5 - X:118 Y:456
+Runner 6 - X:118 Y:554
+
+7-runner draw: 324x91 (default)
+
+Runner 1 - X:118 Y:64
+Runner 2 - X:118 Y:146
+Runner 3 - X:118 Y:228
+Runner 4 - X:118 Y:310
+Runner 5 - X:118 Y:392
+Runner 6 - X:118 Y:474
+Runner 7 - X:118 Y:556
+
+8-runner draw: 324x91 (default)
+
+Runner 1 - X:118 Y:45
+Runner 2 - X:118 Y:121
+Runner 3 - X:118 Y:197
+Runner 4 - X:118 Y:273
+Runner 5 - X:118 Y:349
+Runner 6 - X:118 Y:425
+Runner 7 - X:118 Y:501
+Runner 8 - X:118 Y:577
+
+
+9-runner draw: 289x81 (RESET AFTER TO 324x91)
+
+Runner 1 - X:136 Y:48
+Runner 2 - X:136 Y:115
+Runner 3 - X:136 Y:182
+Runner 4 - X:136 Y:249
+Runner 5 - X:136 Y:316
+Runner 6 - X:136 Y:383
+Runner 7 - X:136 Y:450
+Runner 8 - X:136 Y:517
+Runner 9 - X:136 Y:584
+
+
+10-runner draw: 260x73 (RESET AFTER TO 324x91)
+
+Runner 1 - X:150 Y:48
+Runner 2 - X:150 Y:108
+Runner 3 - X:150 Y:168
+Runner 4 - X:150 Y:228
+Runner 5 - X:150 Y:288
+Runner 6 - X:150 Y:348
+Runner 7 - X:150 Y:408
+Runner 8 - X:150 Y:468
+Runner 9 - X:150 Y:528
+Runner 10 - X:150 Y:588
+
+
+11-runner draw: 260x73 (RESET AFTER TO 324x91)
+
+Runner 1 - X:160 Y:48
+Runner 2 - X:160 Y:103
+Runner 3 - X:160 Y:158
+Runner 4 - X:160 Y:213
+Runner 5 - X:160 Y:268
+Runner 6 - X:160 Y:323
+Runner 7 - X:160 Y:378
+Runner 8 - X:160 Y:433
+Runner 9 - X:160 Y:488
+Runner 10 - X:160 Y:543
+Runner 11 - X:160 Y:598
+
+
+
+Tables:
+4-runner groups: 324x91 (default)
+
+Group 1 Runner 1: X:560 Y:88
+Group 1 Runner 2: X:560 Y:179
+Group 1 Runner 3: X:560 Y:270
+Group 1 Runner 4: X:560 Y:361
+
+Group 2 Runner 1: X:900 Y:88
+Group 2 Runner 2: X:900 Y:179
+Group 2 Runner 3: X:900 Y:270
+Group 2 Runner 4: X:900 Y:361
+
+Group 3 Runner 1: X:1240 Y:88
+Group 3 Runner 2: X:1240 Y:179
+Group 3 Runner 3: X:1240 Y:270
+Group 3 Runner 4: X:1240 Y:361
+
+Group 4 Runner 1: X:1580 Y:88
+Group 4 Runner 2: X:1580 Y:179
+Group 4 Runner 3: X:1580 Y:270
+Group 4 Runner 4: X:1580 Y:361
+
+Group 5 Runner 1: X:560 Y:530
+Group 5 Runner 2: X:560 Y:621
+Group 5 Runner 3: X:560 Y:712
+Group 5 Runner 4: X:560 Y:803
+
+Group 6 Runner 1: X:900 Y:530
+Group 6 Runner 2: X:900 Y:621
+Group 6 Runner 3: X:900 Y:712
+Group 6 Runner 4: X:900 Y:803
+
+Group 7 Runner 1: X:1240 Y:530
+Group 7 Runner 2: X:1240 Y:621
+Group 7 Runner 3: X:1240 Y:712
+Group 7 Runner 4: X:1240 Y:803
+
+Group 8 Runner 1: X:1580 Y:530
+Group 8 Runner 2: X:1580 Y:621
+Group 8 Runner 3: X:1580 Y:712
+Group 8 Runner 4: X:1580 Y:803
+
+
+5-runner groups: 324x91 (default)
+
+Group 1 Runner 1: X:560 Y:79
+Group 1 Runner 2: X:560 Y:152
+Group 1 Runner 3: X:560 Y:225
+Group 1 Runner 4: X:560 Y:298
+Group 1 Runner 5: X:560 Y:371
+
+Group 2 Runner 1: X:900 Y:79
+Group 2 Runner 2: X:900 Y:152
+Group 2 Runner 3: X:900 Y:225
+Group 2 Runner 4: X:900 Y:298
+Group 2 Runner 5: X:900 Y:371
+
+Group 3 Runner 1: X:1240 Y:79
+Group 3 Runner 2: X:1240 Y:152
+Group 3 Runner 3: X:1240 Y:225
+Group 3 Runner 4: X:1240 Y:298
+Group 3 Runner 5: X:1240 Y:371
